@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hey, fabianbru here 👋
 
-<!--
-**fabianbru/fabianbru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Fabian Brunold, and I'm a passionated NodeJS fullstack
+developer from Bavaria, Germany. I love building awesome React and
+React Native apps as much as I enjoy creating robust APIs. All together
+with some magical CI. 🦄🌈
 
-Here are some ideas to get you started:
+- ⚒️ Frontend | Backend | DevOps
+- 💻️ macOS | iTerm | Oh My Zsh | WebStrom
+- 📚 IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Ideas & Examples
+
+```text
+💬 Languages:                      💬 Frameworks:
+---                                ---
+JavaScript     ████████░░          React          ███████░░░
+CSS            ██████░░░░          React Native   ██████░░░░
+HTML           ██████░░░░          Express        ███████░░░
+SQL            ████░░░░░░          Angular        ██████░░░░
+Java           ██░░░░░░░░          AngularJS      ████░░░░░░
+
+
+💬 Ops:                            💬 Data Management:
+---                                ---
+Azure          ██████░░░░          MongoDB        ████████░░
+Heroku         █████░░░░░          PostgreSQL     ███░░░░░░░
+GitHub Actions █████░░░░░          ...            ░░░░░░░░░░
+nginx          ██░░░░░░░░          ...            ░░░░░░░░░░
+Docker         ████░░░░░░          ...            ░░░░░░░░░░
+
+
+💬 Hardware:                       💬 :
+---                                ---
+Raspberry Pi   █████░░░░░          ...            ░░░░░░░░░░
+Arduino        ████░░░░░░          ...            ░░░░░░░░░░
+...            ░░░░░░░░░░          ...            ░░░░░░░░░░
+...            ░░░░░░░░░░          ...            ░░░░░░░░░░
+...            ░░░░░░░░░░          ...            ░░░░░░░░░░
+```
+
