@@ -1,32 +1,20 @@
-# Hey, fabianbru here 👋🚴💨
-
-My name is Fabian Brunold, and I'm a passionated NodeJS fullstack
-developer from Bavaria, Germany. I love building awesome React and
-React Native apps as much as I enjoy creating robust APIs. All together
-with some magical CI. 🦄🌈
-
-- ⚒️ Frontend | Backend | DevOps
-- 💻️ macOS | iTerm2 | Oh My Zsh | WebStrom
-- 📚 IoT Sensors | Continuous Deployment | Intrastructure as code
-
-# Skills
+# Hey, fabianbru here 👋
 
 ```text
-💬 Languages:                      🔋 Frameworks:                      💾 Data Management:
+💬 Languages:                       🔋 Frameworks:                     💾 Data:
 ---                                ---                                ---
 TS/JS          ████████░░          NodeJS         ███████░░░          MongoDB        ████████░░
 CSS            ██████░░░░          React          ███████░░░          PostgreSQL     ███░░░░░░░
 HTML           ██████░░░░          React Native   ████████░░          redux          ███████░░░
 SQL            ████░░░░░░          Express        ███████░░░          AWS/Azure Blob █████░░░░░
-Bash           ████░░░░░░          Angular        ███░░░░░░░          ...            ░░░░░░░░░░
+Bash           ████░░░░░░          Fastify        ███░░░░░░░          ...            ░░░░░░░░░░
 
 
-🔧 Ops:                            🔌 Hardware:                       🎲 Interfaces:
----                                ---
-Azure          ███████░░░          Raspberry Pi   █████░░░░░          REST           ██████░░░░
+🔧 Services:                        🔌 Hardware:                       🎲 API:
+---                                ---                                ---
+Azure          ███████░░░          Raspberry Pi   █████░░░░░          REST           ████████░░
 Docker         █████░░░░░          Arduino        ████░░░░░░          BLE            ██████░░░░
 GitHub/GitLab  ████████░░          ...            ░░░░░░░░░░          GraphQL        ████░░░░░░
 nginx          ███░░░░░░░          ...            ░░░░░░░░░░          Sockets        ████░░░░░░
 Heroku         ███████░░░          ...            ░░░░░░░░░░          ...            ░░░░░░░░░░
 ```
-
