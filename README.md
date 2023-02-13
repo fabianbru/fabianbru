@@ -32,7 +32,7 @@
 ![](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger&logoColor=FFFFFF&logoWidth=18)
 
 ![](https://img.shields.io/badge/-Edge-6d98be?style=flat)
-![](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=reaspberry%20pi&logoColor=FFFFFF&logoWidth=18)
+![](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberry%20pi&logoColor=FFFFFF&logoWidth=18)
 ![](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=FFFFFF&logoWidth=18)
 ![](https://img.shields.io/badge/-Bluetooh%20BLE-333333?style=flat&logo=bluetooth&logoColor=FFFFFF&logoWidth=18)
 ![](https://img.shields.io/badge/-MQTT-333333?style=flat&logo=mqtt&logoColor=FFFFFF&logoWidth=18)
