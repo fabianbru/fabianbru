@@ -1,23 +1,62 @@
 # Hey, fabianbru here 👋
 
-```text
-💬 Languages:                       🔋 Frameworks/Runtimes/Tech:       💾 Data/Data-Management:
----                                ---                                ---
-TS/JS(X)       ████████░░          NodeJS         ████████░░          MongoDB        ████████░░
-(S)CSS         ███████░░░          React Native   ████████░░          redux          ███████░░░
-HTML/XML       ███████░░░          React          ███████░░░          react-query    █████░░░░░
-SQL            ████░░░░░░          Express        ███████░░░          AWS/Azure Blob █████░░░░░
-Bash           ████░░░░░░          Docker         █████░░░░░          InfluxDB       ████░░░░░░
-Java           █░░░░░░░░░          Fastify        ███░░░░░░░          PostgreSQL     ███░░░░░░░
+### Tech Stack
+![](https://img.shields.io/badge/-General-f94144?style=flat)
+![](https://img.shields.io/static/v1?style=flat&logo=node.js&logoColor=FFFFFF&logoWidth=18&label=Node.js&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=npm&logoColor=FFFFFF&logoWidth=18&label=npm&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=typescript&logoColor=FFFFFF&logoWidth=18&label=TypeScript&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=eslint&logoColor=FFFFFF&logoWidth=18&label=ESLint&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=.env&logoColor=FFFFFF&logoWidth=18&label=dotenv&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=prettier&logoColor=FFFFFF&logoWidth=18&label=Prettier&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=jest&logoColor=FFFFFF&logoWidth=18&label=Jest&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=markdown&logoColor=FFFFFF&logoWidth=18&label=MarkDown&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=git&logoColor=FFFFFF&logoWidth=18&label=git&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=i18next&logoColor=FFFFFF&logoWidth=18&label=i18next&labelColor=333333&message=%20&color=aaaaaa)
 
+![](https://img.shields.io/badge/-Web-f8961e?style=flat)
+![](https://img.shields.io/static/v1?style=flat&logo=react&logoColor=FFFFFF&logoWidth=18&label=React&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=react%20query&logoColor=FFFFFF&logoWidth=18&label=react-query&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=redux&logoColor=FFFFFF&logoWidth=18&label=redux&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=webpack&logoColor=FFFFFF&logoWidth=18&label=Webpack&labelColor=333333&message=%20&color=aaaaaa)
 
-🔧 Services/Deployment:             🌐 Server/API:                     🎲 Misc:
----                                ---                                ---
-GitHub         ████████░░          REST           ████████░░          Raspberry Pi   █████░░░░░
-Azure          ███████░░░          BLE            █████░░░░░          Arduino        ████░░░░░░
-Heroku         ███████░░░          GraphQL        ███░░░░░░░          Affinity       ███░░░░░░░
-GitLab         █████░░░░░          Sockets        ███░░░░░░░
-DigitalOcean   ████░░░░░░          nginx          ███░░░░░░░
-balena         ████░░░░░░
-App Stores     ████░░░░░░
-```
+![](https://img.shields.io/badge/-Mobile-f9c74f?style=flat)
+![](https://img.shields.io/static/v1?style=flat&logo=react&logoColor=FFFFFF&logoWidth=18&label=React%20Native&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=android&logoColor=FFFFFF&logoWidth=18&label=Android&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=ios&logoColor=FFFFFF&logoWidth=18&label=iOS&labelColor=333333&message=%20&color=aaaaaa)
+
+![](https://img.shields.io/badge/-Cloud-90be6d?style=flat)
+![](https://img.shields.io/static/v1?style=flat&logo=express&logoColor=FFFFFF&logoWidth=18&label=express&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=docker&logoColor=FFFFFF&logoWidth=18&label=Docker&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=mongodb&logoColor=FFFFFF&logoWidth=18&label=MongoDB&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=influxdb&logoColor=FFFFFF&logoWidth=18&label=InfluxDB&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=swagger&logoColor=FFFFFF&logoWidth=18&label=Swagger&labelColor=333333&message=%20&color=aaaaaa)
+
+![](https://img.shields.io/badge/-Edge-6d98be?style=flat)
+![](https://img.shields.io/static/v1?style=flat&logo=raspberry%20pi&logoColor=FFFFFF&logoWidth=18&label=Raspberry%20Pi&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=arduino&logoColor=FFFFFF&logoWidth=18&label=Arduino&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=bluetooth&logoColor=FFFFFF&logoWidth=18&label=Bluetooth/BLE&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=mqtt&logoColor=FFFFFF&logoWidth=18&label=MQTT&labelColor=333333&message=%20&color=aaaaaa)
+
+![](https://img.shields.io/badge/-Misc-7f6dbe?style=flat)
+![](https://img.shields.io/static/v1?style=flat&logo=webstorm&logoColor=FFFFFF&logoWidth=18&label=WebStrom&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=iterm2&logoColor=FFFFFF&logoWidth=18&label=iTerm2&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=macos&logoColor=FFFFFF&logoWidth=18&label=macOS&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=google%20chrome&logoColor=FFFFFF&logoWidth=18&label=Chrome&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=homebrew&logoColor=FFFFFF&logoWidth=18&label=Homebrew&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=alfred&logoColor=FFFFFF&logoWidth=18&label=Alfred&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=postman&logoColor=FFFFFF&logoWidth=18&label=Postman&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=postgresql&logoColor=FFFFFF&logoWidth=18&label=PostgreSQL&labelColor=333333&message=%20&color=aaaaaa)
+
+### Tools & Services
+![](https://img.shields.io/static/v1?style=flat&logo=github&logoColor=FFFFFF&logoWidth=18&label=GitHub&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=github%20actions&logoColor=FFFFFF&logoWidth=18&label=GitHub%20Actions&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=heroku&logoColor=FFFFFF&logoWidth=18&label=Heroku&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=digitalocean&logoColor=FFFFFF&logoWidth=18&label=DigitalOcean&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=app%20store&logoColor=FFFFFF&logoWidth=18&label=iOS%20App%20Store&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=google%20play&logoColor=FFFFFF&logoWidth=18&label=Google%20Play%20Store&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=sentry&logoColor=FFFFFF&logoWidth=18&label=Sentry&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=affinity&logoColor=FFFFFF&logoWidth=18&label=Affinity&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=figma&logoColor=FFFFFF&logoWidth=18&label=figma&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=gitlab&logoColor=FFFFFF&logoWidth=18&label=GitLab&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=microsoft%20azure&logoColor=FFFFFF&logoWidth=18&label=Azure&labelColor=333333&message=%20&color=aaaaaa)
+![](https://img.shields.io/static/v1?style=flat&logo=amazon%20s3&logoColor=FFFFFF&logoWidth=18&label=Amazon%20S3&labelColor=333333&message=%20&color=aaaaaa)
