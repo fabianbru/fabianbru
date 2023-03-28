@@ -48,8 +48,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=FFFFFF&logoWidth=18)
 
 ### Tools & Services
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF&logoWidth=18)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=postgresql&logoColor=FFFFFF&logoWidth=18)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=Github&logoColor=FFFFFF&logoWidth=18)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=Github%20Actions&logoColor=FFFFFF&logoWidth=18)
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=FFFFFF&logoWidth=18)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean&logoColor=FFFFFF&logoWidth=18)
 ![Google Play Store](https://img.shields.io/badge/-Google%20Play%20Store-333333?style=flat&logo=google%20play&logoColor=FFFFFF&logoWidth=18)
