@@ -1,6 +1,8 @@
 # Hey, fabianbru here 👋
 
 ### Tech Stack
+<div>
+
 ![General](https://img.shields.io/badge/-General-f94144?style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=FFFFFF&logoWidth=18)
 ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm&logoColor=FFFFFF&logoWidth=18)
@@ -49,7 +51,11 @@
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=FFFFFF&logoWidth=18)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=FFFFFF&logoWidth=18)
 
+</div>
+
 ### Tools & Services
+<div>
+
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=Github&logoColor=FFFFFF&logoWidth=18)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=Github%20Actions&logoColor=FFFFFF&logoWidth=18)
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=FFFFFF&logoWidth=18)
@@ -62,3 +68,5 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab&logoColor=FFFFFF&logoWidth=18)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft%20azure&logoColor=FFFFFF&logoWidth=18)
 ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-333333?style=flat&logo=amazon%20s3&logoColor=FFFFFF&logoWidth=18)
+
+</div>
